@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="240" viewBox="0 0 520 240">
+<rect width="520" height="240" rx="26" fill="#080808"/>
+<circle cx="130" cy="120" r="58" fill="none" stroke="#3aa567" stroke-width="9"/>
+<path d="M130 68l24 52-24 52-24-52z" fill="#3aa567"/>
+<text x="220" y="96" fill="#cfc7c2" font-family="Arial" font-size="25" letter-spacing="7">REGISTERED</text>
+<text x="220" y="135" fill="#fff" font-family="Arial Black" font-size="30">SIALKOT CHAMBER</text>
+<text x="220" y="164" fill="#cfc7c2" font-family="Arial" font-size="19">OF COMMERCE & INDUSTRY</text>
+</svg>
